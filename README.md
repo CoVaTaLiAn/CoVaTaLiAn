@@ -14,3 +14,14 @@ AtCoder（競技プログラミング）における Python3 での解答・学�
 ## 意識しているポイント
 - $O(N)$ や $O(N \log N)$ などの計算量を意識したコード記述
 - 可読性の高い変数名・関数化の徹底
+
+## 目標
+- [ ] AtCoder Beginners Selection (ABS) 完了
+- [ ] ABC (A, B問題) 100問 AC
+- [ ] レート: 茶色達成
+
+## 進捗（ABS）
+- [x] 01_welcome (PracticeA)
+- [ ] 02_product (ABC086A)
+- [ ] 03_placing_marbles (ABC081A)
+- [ ] 04_
