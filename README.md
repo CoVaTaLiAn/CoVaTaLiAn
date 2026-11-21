@@ -14,7 +14,12 @@
 | [Obsidian → Google Drive 自動同期](projects/obsidian-sync.md) | iCloud のメモを Google Drive に5分ごとに同期し、AI から読めるようにする | シェル、rsync、launchd |
 | [Windows 自動ロックタイマー](projects/pc-auto-locker.md) | 指定時刻に画面をロックして作業の区切りを作る | HTA、JavaScript |
 
-コンペの解法は別のリポジトリにあります：[kaggle-signate_solution](https://github.com/CoVaTaLiAn/kaggle-signate_solution)
+## コードも公開しているもの
+
+| フォルダ | 内容 |
+|---|---|
+| [projects/kaggle-signate](projects/kaggle-signate/README.md) | Kaggle・SIGNATE のコンペの解法と実験記録（例: Jリーグ観客動員数予測） |
+| [projects/atcoder](projects/atcoder/README.md) | AtCoder の解答（Python） |
 
 ## 作り方の共通点
 

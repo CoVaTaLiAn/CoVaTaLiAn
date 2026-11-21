@@ -1,4 +1,4 @@
-# kaggle-signate_solution
+# kaggle-signate（旧 kaggle-signate_solution）
 
 Kaggle・SIGNATE のコンペの解法と実験記録。
 
